@@ -12,7 +12,7 @@
   "keywords": [],
   "author": "Ravineel Singhi",
   "license": "ISC",
-  "homepage": "https:ravineel.github.io",
+  "homepage": "https://ravineel.github.io/",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.6.0",
