@@ -1,23 +1,16 @@
 {
-  "name": "simplefolio",
-  "version": "1.0.1",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "A clean, beautiful and responsive portfolio ",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack.dev.js --open",
     "build": "webpack --config webpack.prod.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
-  },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Ravineel Singhi",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
-  },
-  "homepage": "https://github.com/cobidev/simplefolio#readme",
+  "homepage": "https://github.com/Ravineel/ravineel.github.io",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.6.0",
@@ -36,6 +29,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.5.0",
+    "gh-pages": "^3.1.0",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1",
     "tilt.js": "^1.2.1"
